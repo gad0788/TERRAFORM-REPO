@@ -1,0 +1,1 @@
+# Terraform code provisioning and managing aws resources and keeping statefile in remote backend using s3 bucket and state locking using Dynamo db
