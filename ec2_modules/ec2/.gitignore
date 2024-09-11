@@ -2,7 +2,7 @@
 **/.terraform/*
 **/.infracost/*
 .keypair.tf/*
-keypair.tf
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
